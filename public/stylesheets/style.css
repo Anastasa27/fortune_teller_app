@@ -1,7 +1,13 @@
 body {
-text-align: center;
-font-family: 'Poiret One', cursive;
-font-size: 25px;
+  text-align: center;
+  font-family: 'Poiret One', cursive;
+  font-size: 25px;
+}
+
+#daily-fortune {
+  font-weight: bold;
+  color:white;
+
 }
 
 p1 {
