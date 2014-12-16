@@ -10,7 +10,7 @@ fortunes = [
   "Everyone agrees. You are the best.",
   "Let the deeds speak.",
   "The man on the top of the mountain did not fall there.",
-  "Fortune favors the brave.",
+  "Fortune favors the bold.",
   "It's better to be alone sometimes."
 ]
 
