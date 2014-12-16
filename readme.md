@@ -11,3 +11,7 @@
 - JavaScript
 - Heroku
 
+![Imgur](http://i.imgur.com/WwlvMIOl.png)
+
+![Imgur](http://i.imgur.com/Vn9gaGzl.png)
+
